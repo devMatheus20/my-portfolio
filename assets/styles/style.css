@@ -150,7 +150,7 @@ main {
 
 .s-home {
     display: flex;
-    padding: 70px 40px 100px 40px;
+    padding: 70px 40px;
 }
 
 .article-home {
@@ -254,7 +254,7 @@ main {
 .s-about {
     display: flex;
     justify-content: center;
-    padding: 110px 20px;
+    padding: 70px 20px;
     background-color: #191919;
 }
 
@@ -308,7 +308,7 @@ main {
 /*------------ SECTION Projetos -----------*/
 
 .s-projects {
-    padding: 50px 0 100px 0;
+    padding: 40px 0 100px 0;
 }
 
 .title-projects {
@@ -458,7 +458,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 100px 0px;
+    padding: 70px 0px;
     gap: 170px;
     background-color: #191919;
 }
@@ -530,7 +530,7 @@ main {
 
 .s-contact {
     display: flex;
-    padding: 80px 70px 60px 70px;
+    padding: 70px 70px 60px 70px;
     gap: 20%;
 }
 
