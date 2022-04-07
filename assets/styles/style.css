@@ -530,31 +530,20 @@ main {
 
 .s-contact {
     display: flex;
-    align-items: center;
-    padding: 50px 45px;
-    gap: 250px;
+    padding: 80px 70px 60px 70px;
+    gap: 20%;
 }
 
 .article-contact {
     display: flex;
-    align-items: center;
-    width: 40%;
-}
-
-.info-contact {
-    max-width: 380px;
-    margin-left: 5%;
+    flex-direction: column;
+    margin-left: 10%;
 }
 
 .title-contact {
     margin-bottom: 25px;
     font-size: 4rem;
     color: #fafafa;
-}
-
-.paragraph-contact {
-    font-size: 2.3rem;
-    color: #C2C1C2;
 }
 
 .social-links {
@@ -574,13 +563,11 @@ main {
 
 
 .form {
-    height: 510px;
+    height: 390px;
     width: 35%;
-    margin-top: 60px;
     padding: 20px;
     border-radius: 1rem;
-    background-color: #121212;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: #171717;
 }
 
 .form label {
@@ -594,11 +581,11 @@ main {
 .form input {
     display: block;
     width: 100%;
-    padding: 13px 0 13px 8px;
+    padding: 15px 0 15px 8px;
     background-color: #343434;
     color: #fafafa;
     border: none;
-    border-radius: 6px;
+    border-radius: 8px;
     outline: none;
     
 }
@@ -611,18 +598,15 @@ main {
     background-color: #343434;
     color: #fafafa;
     border: none;
-    border-radius: 6px;
+    border-radius: 8px;
     outline: none;
     resize: none;
 }
 
 .form button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     gap: 10px;
-    width: 80%;
-    margin: 40px auto 0 auto;
+    width: 50%;
+    margin-top: 20px;
     padding: 10px 0;
     background-color: #FFD700;
     border: none;
@@ -657,7 +641,6 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 350px;
     margin-bottom: 20px;
 }
 
