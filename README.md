@@ -5,17 +5,17 @@
 
 Check the Application: http://www.mtsantos.com.br/ <br>
 
-## :rocket: Technologies ##
+## :rocket: Tecnologias ##
 
-The following tools were used in this project:
+Neste projeto foram utilizadas as seguintes ferramentas:
 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 
-## 🤝 Collaborators
+## 🤝 Colaboradores
 
-We thank the following people who contributed to this project:
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
@@ -30,10 +30,10 @@ We thank the following people who contributed to this project:
   </tr>
 </table>
 
-## 📝 License
+## 📝 Licença
 
-This project is under license. See the [LICENSE](LICENSE.md) file for more details.
+Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
 
-&#xa0;
+Made with ♥ by Matheus Santos 👋 Get in touch!
 
 <a href="#top">Back to top</a>
