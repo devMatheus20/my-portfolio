@@ -1,6 +1,6 @@
 # Meu Portfólio
 
-<img id="top" src="./assets/GIF/page.gif" width="500px" alt="Gif do Teste">
+<img id="top" src="./assets/GIF/page.gif" width="800px" alt="Gif do Teste">
 
 
 Check the Application: http://www.mtsantos.com.br/ <br>
